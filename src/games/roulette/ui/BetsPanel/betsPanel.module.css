@@ -1,0 +1,5 @@
+.wrapper {
+    background: url('/src/assets/roulette/bg-bets.png') no-repeat;
+    padding: 16px 38px;
+    border-radius: 40px;
+}

@@ -1,0 +1,8 @@
+.roulette {
+    background: url('/src/assets/roulette/bg.jpg') center center/cover no-repeat;
+    height: 100%;
+}
+
+.slots {
+    background: url('/src/assets/slot/bg.jpg') center center/cover no-repeat;
+}
